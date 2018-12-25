@@ -9,7 +9,7 @@ learnjs.problems = [
 	},
 	{
 		description: "Simple Math",
-		code: "function problem() { return 42 === 6 * __; }"
+		code: "function problem() { return 42 == 6 * __; }"
 	}
 ];
 
